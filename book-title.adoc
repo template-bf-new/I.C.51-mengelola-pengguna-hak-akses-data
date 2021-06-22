@@ -1,0 +1,37 @@
+= Laporan Pengelolaan Pengguna dan Hak Akses Data
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Dokumentasi Penambahan, Pembaruan, dan Penghapusan Akun Pengguna
+
+== Dokumentasi Pemberian Autentikasi Akun Pengguna
+
+== Dokumentasi Pembagian Peran Pengguna
+
+== Dokumentasi Pemberian Peran Terhadap Akun Pengguna
+
+== Dokumentasi Akses Terhadap Sistem, Aplikasi, Data, Jaringan, dan Perangkat Serta Layanan Teknologi
+
+== Dokumentasi Audit Akses Pengguna dan Penggunaan Hak Akses
